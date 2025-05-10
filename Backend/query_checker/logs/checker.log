@@ -1,0 +1,29 @@
+2025-04-19 01:54:55	127.0.0.1:35990	18832	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	malicious
+2025-04-19 01:57:12	127.0.0.1:37862	20241	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	malicious
+2025-04-19 02:02:46	127.0.0.1:41496	23044	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	safe
+2025-04-19 02:17:25	127.0.0.1:59992	30395	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	safe
+2025-04-19 02:22:04	127.0.0.1:45892	33118	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	safe
+2025-04-19 03:02:58	127.0.0.1:40124	53816	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	safe
+2025-04-19 03:05:40	127.0.0.1:41192	55474	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	malicious
+2025-04-19 03:07:08	127.0.0.1:49550	56543	nc	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	safe
+2025-04-19 03:50:56	127.0.0.1:40286	81178	python	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin"--" and passwd=1234 	student	malicious
+2025-04-19 03:51:50	127.0.0.1:45346	81836	python	select api_key from student where uname=x and passwd=x 	select api_key from student where uname="admin" and passwd=1234 	student	safe
+2025-04-19 06:37:39	127.0.0.1:55134	53338	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="1234" 	employee	safe
+2025-04-19 06:44:47	127.0.0.1:40346	58416	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="1234" 	employee	safe
+2025-04-19 06:47:07	127.0.0.1:34788	59958	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-04-19 06:48:45	127.0.0.1:51252	61261	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin"--" and passwd="1234" 	employee	malicious
+2025-04-19 06:50:06	127.0.0.1:59262	62255	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin'--" and passwd="1234" 	employee	safe
+2025-04-19 06:52:00	127.0.0.1:46776	63359	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-04-19 06:59:44	127.0.0.1:39430	67950	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="1234" 	employee	safe
+2025-04-19 07:01:13	127.0.0.1:41868	69000	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-04-19 07:01:35	127.0.0.1:43392	69000	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin'--" and passwd="1234" 	employee	safe
+2025-04-19 07:02:04	127.0.0.1:59216	69000	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin"--" and passwd="1234" 	employee	malicious
+2025-05-04 01:31:29	127.0.0.1:47666	33546	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-05-04 01:32:50	127.0.0.1:59596	35276	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-05-04 01:33:46	127.0.0.1:51446	35808	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-05-04 01:38:48	127.0.0.1:57268	35808	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" OR 1=1" and passwd="1213" 	employee	safe
+2025-05-04 01:40:29	127.0.0.1:56676	39782	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" OR 1=1" and passwd="1234" 	employee	safe
+2025-05-04 01:42:34	127.0.0.1:56260	39782	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin' OR 1=1" and passwd="4325" 	employee	malicious
+2025-05-04 01:44:13	127.0.0.1:39396	39782	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin' OR 1=1" and passwd="1234" 	employee	malicious
+2025-05-10 02:51:55	127.0.0.1:33334	33851	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin" and passwd="root@123" 	employee	safe
+2025-05-10 02:52:30	127.0.0.1:37952	33851	python	select api_key from employee where uname=x and passwd=x 	select api_key from employee where uname="admin"--" and passwd="root" 	employee	malicious

@@ -1,0 +1,1 @@
+a select api_key from employee where uname="admin"--" and passwd="root" 

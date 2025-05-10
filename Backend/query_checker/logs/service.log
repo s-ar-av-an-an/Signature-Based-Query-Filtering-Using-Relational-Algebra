@@ -1,0 +1,883 @@
+2025-04-19 01:32:37	Query before adding user input :
+2025-04-19 01:32:37	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employeee)
+
+2025-04-19 01:32:37	Query after adding user input :
+2025-04-19 01:32:37	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employeee)
+2025-04-19 01:44:22	Query before adding user input :
+2025-04-19 01:44:22	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employeee)
+
+2025-04-19 01:44:22	Query after adding user input :
+2025-04-19 01:44:22	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employeee)
+
+2025-04-19 01:47:20	Query before adding user input :
+2025-04-19 01:47:20	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employeee)
+
+2025-04-19 01:47:20	Query after adding user input :
+2025-04-19 01:47:20	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employeee)
+
+2025-04-19 01:54:55	Query before adding user input :
+2025-04-19 01:54:55	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } student)
+
+2025-04-19 01:54:55	Query after adding user input :
+2025-04-19 01:54:55	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 01:57:12	Query before adding user input :
+2025-04-19 01:57:12	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } student)
+
+2025-04-19 01:57:12	Query after adding user input :
+2025-04-19 01:57:12	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 02:02:46	Query before adding user input :
+2025-04-19 02:02:46	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 02:02:46	Query after adding user input :
+2025-04-19 02:02:46	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 02:17:25	Query before adding user input :
+2025-04-19 02:17:25	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 02:17:25	Query after adding user input :
+2025-04-19 02:17:25	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 02:22:04	Query before adding user input :
+2025-04-19 02:22:04	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 02:22:04	Query after adding user input :
+2025-04-19 02:22:04	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 03:02:58	Query before adding user input :
+2025-04-19 03:02:58	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 03:02:58	Query after adding user input :
+2025-04-19 03:02:58	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 03:05:40	Query before adding user input :
+2025-04-19 03:05:40	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } student)
+
+2025-04-19 03:05:40	Query after adding user input :
+2025-04-19 03:05:40	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 03:07:08	Query before adding user input :
+2025-04-19 03:07:08	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+2025-04-19 03:07:08	Query after adding user input :
+2025-04-19 03:07:08	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 03:50:56	Query before adding user input :
+2025-04-19 03:50:56	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } student)
+
+2025-04-19 03:50:56	Query after adding user input :
+2025-04-19 03:50:56	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } student)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 03:51:50	Query before adding user input :
+2025-04-19 03:51:50	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } student)
+
+2025-04-19 03:51:50	Query after adding user input :
+2025-04-19 03:51:50	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = 1234  } student)
+
+2025-04-19 06:37:39	Query before adding user input :
+2025-04-19 06:37:39	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = 1234  } student)
+
+2025-04-19 06:37:39	Query after adding user input :
+2025-04-19 06:37:39	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = 1234  } student)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 06:44:47	Query before adding user input :
+2025-04-19 06:44:47	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 06:44:47	Query after adding user input :
+2025-04-19 06:44:47	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "1234"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 06:47:07	Query before adding user input :
+2025-04-19 06:47:07	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 06:47:07	Query after adding user input :
+2025-04-19 06:47:07	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 06:48:45	Query before adding user input :
+2025-04-19 06:48:45	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 06:48:45	Query after adding user input :
+2025-04-19 06:48:45	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 06:50:06	Query before adding user input :
+2025-04-19 06:50:06	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 06:50:06	Query after adding user input :
+2025-04-19 06:50:06	
+\pi_{ api_key  } (\sigma_{ uname = "admin'--" AND passwd = "1234"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 06:52:00	Query before adding user input :
+2025-04-19 06:52:00	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 06:52:00	Query after adding user input :
+2025-04-19 06:52:00	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 06:59:44	Query before adding user input :
+2025-04-19 06:59:44	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 06:59:44	Query after adding user input :
+2025-04-19 06:59:44	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "1234"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 07:01:13	Query before adding user input :
+2025-04-19 07:01:13	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 07:01:13	Query after adding user input :
+2025-04-19 07:01:13	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 07:01:35	Query before adding user input :
+2025-04-19 07:01:35	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 07:01:35	Query after adding user input :
+2025-04-19 07:01:35	
+\pi_{ api_key  } (\sigma_{ uname = "admin'--" AND passwd = "1234"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-04-19 07:02:04	Query before adding user input :
+2025-04-19 07:02:04	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-04-19 07:02:04	Query after adding user input :
+2025-04-19 07:02:04	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-04 01:31:29	Query before adding user input :
+2025-05-04 01:31:29	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:31:29	Query after adding user input :
+2025-05-04 01:31:29	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-04 01:32:50	Query before adding user input :
+2025-05-04 01:32:50	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:32:50	Query after adding user input :
+2025-05-04 01:32:50	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-04 01:33:46	Query before adding user input :
+2025-05-04 01:33:46	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:33:46	Query after adding user input :
+2025-05-04 01:33:46	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# qconv: LexMinSQL.x:(82,13)-(89,21): Non-exhaustive patterns in case
+
+2025-05-04 01:38:48	Query before adding user input :
+2025-05-04 01:38:48	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:38:48	Query after adding user input :
+2025-05-04 01:38:48	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# qconv: LexMinSQL.x:(82,13)-(89,21): Non-exhaustive patterns in case
+
+2025-05-04 01:40:29	Query before adding user input :
+2025-05-04 01:40:29	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:40:29	Query after adding user input :
+2025-05-04 01:40:29	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-04 01:42:34	Query before adding user input :
+2025-05-04 01:42:34	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:42:34	Query after adding user input :
+2025-05-04 01:42:34	
+\pi_{ api_key  } (\sigma_{ uname = "admin' OR 1=1" AND passwd = "4325"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-04 01:44:13	Query before adding user input :
+2025-05-04 01:44:13	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-04 01:44:13	Query after adding user input :
+2025-05-04 01:44:13	
+\pi_{ api_key  } (\sigma_{ uname = "admin' OR 1=1" AND passwd = "1234"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-10 02:51:55	Query before adding user input :
+2025-05-10 02:51:55	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-10 02:51:55	Query after adding user input :
+2025-05-10 02:51:55	
+\pi_{ api_key  } (\sigma_{ uname = "admin" AND passwd = "root@123"  } employee)
+
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+Query converter v0.1 (A. Ranta 2015). Commands:
+  <SQL>     = run  SQL command 
+  a <SQL>   = show algebra for sql query
+  i <File>  = read SQL, run commands
+  d <File>  = read design, show E-R, schema, English
+  f <File>  = read relation, analyse dependencies and keys
+  n <File>  = read relation, normalize to BCNF and 4NF
+  x <XPath> = run xpath query
+  x         = print database in xml
+  h         = help
+  q         = quit
+
+qconv=# Unable to init server: Could not connect: Connection refused
+Cannot parse arguments: Cannot open display: 
+qconv=# qconv: <stdin>: hGetLine: end of file
+2025-05-10 02:52:30	Query before adding user input :
+2025-05-10 02:52:30	
+\pi_{ api_key  } (\sigma_{ uname = x AND passwd = x  } employee)
+
+2025-05-10 02:52:30	Query after adding user input :
+2025-05-10 02:52:30	
+\pi_{ api_key  } (\sigma_{ uname = "admin"  } employee)
+
